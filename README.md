@@ -1,0 +1,2 @@
+# QuoteBot
+cloud for QBot
